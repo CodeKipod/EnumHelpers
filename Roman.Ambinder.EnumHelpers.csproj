@@ -2,6 +2,13 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageProjectUrl>https://github.com/CodeKipod/EnumHelpers</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/CodeKipod/EnumHelpers</RepositoryUrl>
+    <NeutralLanguage>Engilish</NeutralLanguage>
+    <Description>Enum caching and conversion helper classes</Description>
+    <Authors>Roman Ambinder</Authors>
+    <Copyright>Roman Ambinder</Copyright>
   </PropertyGroup>
 
 </Project>
