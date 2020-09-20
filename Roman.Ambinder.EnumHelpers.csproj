@@ -11,6 +11,8 @@
     <Copyright>Roman Ambinder</Copyright>
     <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageIcon></PackageIcon>
+    <RepositoryType>Github</RepositoryType>
   </PropertyGroup>
 
 </Project>
