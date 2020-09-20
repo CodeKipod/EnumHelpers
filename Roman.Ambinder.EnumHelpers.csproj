@@ -9,6 +9,8 @@
     <Description>Enum caching and conversion helper classes</Description>
     <Authors>Roman Ambinder</Authors>
     <Copyright>Roman Ambinder</Copyright>
+    <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
   </PropertyGroup>
 
 </Project>
